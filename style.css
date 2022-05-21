@@ -1,0 +1,303 @@
+*{
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px;
+    list-style:none;
+    
+}
+
+#select-temperature{
+    margin-left: 600px;
+    margin-top: 30px;
+}
+
+.row{
+    height: 1300px;
+    font-size: 40px;
+    flex: 20;
+    
+}
+
+.container{
+    height: 1100px;
+    width: 1250px;
+    font-size: 25px;
+    padding:40px;
+    flex: 20;
+    display: block;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.cuadros1{ 
+    width: 1200px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin: 25px;
+    
+
+}
+
+#select{
+    margin: 10px;
+    height: 30px;
+    width: 38px;
+    
+}
+
+.title-sanjose{
+    width: 1090px;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+}
+
+
+h1 {
+    font-size: 40px;
+    padding: 10px;
+    margin: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 20px; 
+    
+  }
+
+#git1{
+    height: 450px;
+    width: 250px;
+    background-color: #D5DBDB ;
+    margin: 20px;
+    flex: 5;
+    box-shadow: 4px 4px 4px grey;
+    border: 1px solid black;
+    
+ 
+}
+
+#git2{
+    height: 450px;
+    width: 250px;
+    background-color: #D5DBDB ;
+    margin: 20px;
+    flex: 5;
+    box-shadow: 4px 4px 4px grey;
+    border: 1px solid black;
+    
+    
+}
+
+#git3{
+    height: 450px;
+    width: 250px;
+    background-color: #D5DBDB ;
+    margin: 20px;
+    flex: 5;
+    box-shadow: 4px 4px 4px grey;
+    border: 1px solid black;
+    
+   
+}
+
+#git4{
+    height: 450px;
+    width: 250px;
+    background-color: #D5DBDB ;
+    margin: 20px;
+    flex: 5;
+    box-shadow: 4px 4px 4px grey;
+    border: 1px solid black;
+    
+
+}
+
+
+.title {
+    text-align: center;  
+    
+}
+
+.nav-title{
+    margin: 10px;
+    color:white;
+}
+
+.nav p{
+    font-size: 50px;  
+}
+
+#link-github{
+    text-align: center; 
+    padding-top: 100px;  
+
+}
+
+.nav{
+    background-color: slategrey;
+    color:aliceblue;
+    display:flex;
+    justify-content: space-between;
+    box-shadow: 4px 4px 4px grey;
+    border: 1px solid black;
+    
+   
+}
+
+.nav-links{
+    color:aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 10px;
+    font-size:23px;
+    
+}
+
+
+
+.btn {
+    color:aliceblue;
+    background-color:cadetblue;
+    border: 1px solid ;
+    display: flex;
+    margin: 15px;
+    align-items: flex-end;
+    
+    
+}
+
+.btn1 {
+    color:aliceblue;
+    background-color:cadetblue;
+    margin: 20px;
+    border: 1px solid ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 120px;
+    height: 40px;
+    font-size:15px;
+}
+
+.btn2 {
+    color:aliceblue;
+    background-color:green;
+    float: right;
+    border: 1px solid ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100px;
+    height: 40px;
+    margin:10px;
+}
+
+.edite{
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+.li-1 a, .li-2 a, .li-3 a{
+    display: flex;
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+    
+
+}
+
+
+.temp{
+    margin: 5px ;
+    font-size: 25px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    color: red;
+    float:left;
+    padding-left: 70px;
+    
+}
+
+.temp2{
+    margin: 5px ;
+    font-size: 25px;
+    display:flex;
+    align-items:flex-start;
+    justify-content: center;
+    color: blue;
+    float:right;
+    padding-right: 70px;
+    
+    
+}
+    
+
+p {
+    margin: 10px ;
+    padding-left: 10px;
+    font-size: 25px;
+       
+}
+  
+
+
+img {
+   
+    height:200px;
+    width:200px;
+    margin-bottom: 20px;
+    margin-left: 25px;
+    background-color: white;
+    border-radius: 100px ;
+    border: 3px solid white;  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+  }
+
+    
+
+
+h2, h3{
+    font-size: 25px;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+        
+}
+
+#cajacookies {
+    float:end;
+    box-shadow: 0px 0px 5px 5px #808080;
+    background-color: white;
+    color: black;
+    padding: 40px;
+    margin: 25px;
+    position: fixed;
+    bottom: 10px;
+    width: 90%;
+  }
+  
+  #cajacookies button {
+    color: black;
+  }
+
+
+
+
+
+  
+
+  
+
+
+
+
+
+
+
